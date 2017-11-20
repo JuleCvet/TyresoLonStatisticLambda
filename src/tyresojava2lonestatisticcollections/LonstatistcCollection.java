@@ -1,4 +1,4 @@
-
+﻿
 package tyresojava2lonestatisticcollections;
 
 import java.util.Collections;
@@ -8,7 +8,7 @@ import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
-
+//Bara en comment
 public class LonstatistcCollection {
     
     public static void main(String[] args) {
