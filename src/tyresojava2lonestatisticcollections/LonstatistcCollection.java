@@ -1,4 +1,3 @@
-﻿
 package tyresojava2lonestatisticcollections;
 
 import java.util.Collections;
